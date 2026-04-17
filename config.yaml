@@ -1,0 +1,20 @@
+# -------------------------------
+# INPUT FILES
+# -------------------------------
+counts_file: "data/counts.txt"
+metadata_file: "data/metadata.txt"
+
+# -------------------------------
+# OUTPUT FILES
+# -------------------------------
+deseq_output: "results/deseq.csv"
+
+up_genes: "results/up.csv"
+down_genes: "results/down.csv"
+
+up_pathways: "results/up_pathways.csv"
+down_pathways: "results/down_pathways.csv"
+
+drug_output: "results/clinical_repurposing_final.csv"
+
+final_report: "results/final_structured_report.csv"

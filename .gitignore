@@ -1,0 +1,20 @@
+# Environments
+myenv/
+venv/
+
+# Snakemake Metadata
+.snakemake/
+
+# Logs & Results
+logs/*.log
+results/
+!results/.gitkeep
+!logs/.gitkeep
+
+# Python/R Temporary Files
+__pycache__/
+.Rhistory
+.RData
+
+# System junk
+.DS_Store
