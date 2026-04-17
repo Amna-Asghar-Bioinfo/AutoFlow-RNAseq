@@ -59,5 +59,7 @@ Run the complete pipeline across 4 parallel threads:
 ## Author
 
 Amna Asghar
+
 Bioinformatics and Computational Oncology
+
 https://www.linkedin.com/in/amna-asghar-030771274
