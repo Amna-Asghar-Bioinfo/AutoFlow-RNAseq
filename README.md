@@ -1,44 +1,63 @@
-#AutoFlow-SNAI1: Automated RNA-Seq & Drug Discovery
+# AutoFlow-SNAI1
 
-An end-to-end, automated bioinformatics workflow designed to analyze transcriptomic changes in **SNAI1 Knockout** models of Breast Cancer. This pipeline transitions from raw differential expression to targeted drug repurposing candidates using Snakemake.
+End-to-end automated RNA-Seq and drug discovery pipeline for transcriptomic analysis of SNAI1 Knockout models in Breast Cancer. Transitions from raw differential expression to clinical-grade drug repurposing candidates in a single command.
 
-## Key Highlights
-* **Full Automation:** Single-command execution via Snakemake.
-* **Clinical Relevance:** Filters for Phase 3/4 drug candidates using the ChEMBL API.
-* **Reproducible Research:** Configuration-driven analysis for consistent results.
+---
 
-## Pipeline Logic
-1. **Differential Expression:** Processes raw count matrices using `DESeq2`.
-2. **Strict Filtration:** Identifies biomarkers with `padj < 0.05` and `|log2FC| >= 2.0`.
-3. **Pathway Enrichment:** Functional annotation via `GSEApy` (KEGG/GO).
-4. **Drug Repurposing:** Automated discovery of clinical-grade inhibitors for overexpressed genes.
+## Overview
+
+AutoFlow-SNAI1 is a fully automated, reproducible bioinformatics workflow built on Snakemake. It processes raw count matrices through differential expression, strict biomarker filtration, functional pathway enrichment, and automated drug repurposing — querying the ChEMBL API to surface Phase 3 and Phase 4 clinical inhibitors for overexpressed gene targets.
+
+---
+
+## Pipeline
+
+01 — Differential Expression
+Processes raw count matrices using DESeq2 to identify statistically significant gene expression changes.
+
+02 — Strict Filtration
+Isolates high-confidence biomarkers at padj < 0.05 and |log2FC| >= 2.0 thresholds.
+
+03 — Pathway Enrichment
+Functional annotation via GSEApy against KEGG and Gene Ontology databases.
+
+04 — Drug Repurposing
+Automated ChEMBL API queries to retrieve clinical-grade inhibitors for overexpressed targets.
+
+---
 
 ## Tech Stack
-| Category | Tools |
-| :--- | :--- |
-| **Workflow** | Snakemake |
-| **Languages** | Python 3.x, R 4.x |
-| **Bioinformatics** | DESeq2, GSEApy, BiomaRt |
-| **Data Science** | Pandas, ChEMBL WebClient |
 
-##Project Structure
+| Category        | Tools                      |
+|-----------------|----------------------------|
+| Workflow        | Snakemake                  |
+| Languages       | Python 3.x, R 4.x          |
+| Bioinformatics  | DESeq2, GSEApy, BiomaRt    |
+| Data Science    | Pandas, ChEMBL WebClient   |
 
+---
 
-├── Scripts/            # Core analysis and API scripts
-├── data/               # Input matrices and metadata
-├── results/            # Automated Plots & Reports
-├── Snakefile           # The automation engine
-└── config.yaml         # Analysis parameters
+## Project Structure
 
+AutoFlow-SNAI1/
+  ├── Scripts/     # Core analysis and API scripts
+  ├── data/        # Input count matrices and metadata
+  ├── results/     # Automated plots and reports
+  ├── Snakefile    # Workflow automation engine
+  └── config.yaml  # Analysis parameters
 
-##Execution
-To run the entire pipeline across 4 threads:
+---
 
-snakemake --cores 4
+## Execution
 
-**Author:** Amna Asghar  
-**Focus:** Bioinformatics & Computational Oncology
-**Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-asghar-030771274)
+Run the complete pipeline across 4 parallel threads:
 
+    snakemake --cores 4
 
+---
 
+## Author
+
+Amna Asghar
+Bioinformatics and Computational Oncology
+https://www.linkedin.com/in/amna-asghar-030771274
