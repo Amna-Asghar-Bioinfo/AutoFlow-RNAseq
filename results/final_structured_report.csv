@@ -1,0 +1,146 @@
+Disease,Analysis,Gene Name,P-value,LogFC,Direction,Pathway,Drug_ID
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL255717
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL257162
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL257375
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL402780
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL402148
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823492
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823500
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823505
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823504
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823503
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823493
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823498
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823501
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823494
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823495
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823497
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823499
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823502
+Breast Cancer,RNA-Seq Differential Expression,THY1,1.10634539374559e-46,12.3719335390021,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1823496
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1643361
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL38380
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL559147
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1233300
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL3219175
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL512845
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL3288258
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL3288259
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL3288260
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL4166454
+Breast Cancer,RNA-Seq Differential Expression,CCL2,3.87339039981786e-194,8.49296456233571,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL4648362
+Breast Cancer,RNA-Seq Differential Expression,IL6,2.1541843553786399e-13,3.26997789012148,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL2103778
+Breast Cancer,RNA-Seq Differential Expression,IL6,2.1541843553786399e-13,3.26997789012148,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL46
+Breast Cancer,RNA-Seq Differential Expression,NR4A3,0.0147450831425758,2.62036344609603,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1221517
+Breast Cancer,RNA-Seq Differential Expression,NR4A3,0.0147450831425758,2.62036344609603,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1961796
+Breast Cancer,RNA-Seq Differential Expression,NR4A3,0.0147450831425758,2.62036344609603,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1961797
+Breast Cancer,RNA-Seq Differential Expression,NR4A3,0.0147450831425758,2.62036344609603,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL4755698
+Breast Cancer,RNA-Seq Differential Expression,NR4A3,0.0147450831425758,2.62036344609603,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL1873475
+Breast Cancer,RNA-Seq Differential Expression,NR4A3,0.0147450831425758,2.62036344609603,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL682
+Breast Cancer,RNA-Seq Differential Expression,NR4A3,0.0147450831425758,2.62036344609603,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL76
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL81463
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL76898
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL420761
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL310163
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL80447
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL77558
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL418908
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL292340
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL310312
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL2369843
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL4096699
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL525619
+Breast Cancer,RNA-Seq Differential Expression,HLA-DPA1,0.0093352021279355,2.04372583153926,Upregulated,positive regulation of leukocyte cell-cell adhesion (GO:1903039),CHEMBL4059893
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL525748
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL502642
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL455792
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL499438
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL500184
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL503520
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL566340
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL569918
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL568525
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL569280
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL568067
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL3126388
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL3126396
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL4752382
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL4793978
+Breast Cancer,RNA-Seq Differential Expression,PCSK5,4.94018427451728e-10,-8.56206195017117,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706),CHEMBL4785628
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL1917113
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL1917112
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL1917257
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL1917109
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL3617066
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL507974
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5091679
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5083412
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5091623
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5077579
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5093878
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5082582
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5084333
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5190671
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5630077
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5631122
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5625112
+Breast Cancer,RNA-Seq Differential Expression,SCN8A,1.21425049857843e-05,-7.09410363379161,Downregulated,nervous system development (GO:0007399),CHEMBL5625110
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL34574
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL34041
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL47164
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL284827
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL33690
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL267473
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL30395
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL284356
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL557333
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL33407
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL286308
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL46912
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL47165
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL33632
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL540
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL44149
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL43141
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL33747
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL284963
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL5653589
+Breast Cancer,RNA-Seq Differential Expression,PTGIS,1.27878388774104e-154,-5.3927135622887,Downregulated,prostaglandin metabolic process (GO:0006693),CHEMBL3752910
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL174
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL29
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL702
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL1449
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL1276310
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL617
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL996
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL1436
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL1730
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL44354
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL186
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL148
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL127
+Breast Cancer,RNA-Seq Differential Expression,FEZ1,1.20845279655565e-14,-4.89730320234416,Downregulated,nervous system development (GO:0007399),CHEMBL158
+Breast Cancer,RNA-Seq Differential Expression,SDK1,2.6639223986644602e-09,-3.8487601926819,Downregulated,nervous system development (GO:0007399),CHEMBL1221600
+Breast Cancer,RNA-Seq Differential Expression,SDK1,2.6639223986644602e-09,-3.8487601926819,Downregulated,nervous system development (GO:0007399),CHEMBL49689
+Breast Cancer,RNA-Seq Differential Expression,SDK1,2.6639223986644602e-09,-3.8487601926819,Downregulated,nervous system development (GO:0007399),CHEMBL27266
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL427748
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL437472
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL411171
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL438733
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL2373291
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL1790962
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL1790963
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL2373292
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL414131
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL384792
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL267754
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL438745
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL410321
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL263294
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL407422
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL409339
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL441573
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL409433
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL411057
+Breast Cancer,RNA-Seq Differential Expression,EDNRB,8.74485188577219e-33,-3.73894696982308,Downregulated,nervous system development (GO:0007399),CHEMBL263855
+Breast Cancer,RNA-Seq Differential Expression,PDGFRA,0.0004141438987123,-2.66343537505545,Downregulated,embryonic digestive tract development (GO:0048566); embryonic skeletal system development (GO:0048706); embryonic organ morphogenesis (GO:0048562),CHEMBL4577779

@@ -1,0 +1,74 @@
+
+[INFO] Processing Upregulated: 5 genes
+   -> THY1
+   -> CCL2
+   -> IL6
+   -> NR4A3
+   -> HLA-DPA1
+
+[INFO] Processing Downregulated: 61 genes
+   -> JAM3
+   -> TBX20
+   -> PCSK5
+   -> OR51I2
+   -> CYP2S1
+   -> OR51B2
+   -> SNTG2
+   -> OR51B6
+   -> SCN8A
+   -> OR2L3
+   -> OR5L1
+   -> GNG7
+   -> OR51B5
+   -> OR52D1
+   -> OR1N2
+   -> SOX11
+   -> OR51B4
+   -> BCL11B
+   -> OR51M1
+   -> OR51A4
+   -> OR51I1
+   -> AKR1C2
+   -> OR6X1
+   -> OR56A5
+   -> OR10G4
+   -> OR2K2
+   -> OR51G1
+   -> OR10S1
+   -> PTGIS
+   -> OR5K2
+   -> FEZ1
+   -> CXCL8
+   -> OR52B2
+   -> MSI1
+   -> VAX1
+   -> OR5B21
+   -> PCDH1
+   -> SDK1
+   -> EDNRB
+   -> TBXAS1
+   -> SPINK5
+   -> OPHN1
+   -> FUZ
+   -> SPINK6
+   -> AKR1C1
+   -> SEMA5A
+   -> DACT1
+   -> PDGFRA
+   -> PCDHB12
+   -> DOC2A
+   -> PCDHB3
+   -> PCDHB10
+   -> SULF1
+   -> FOXF1
+   -> OR6C74
+   -> CDH8
+   -> SPOCK1
+   -> PCDHB4
+   -> HOXB9
+   -> PCDHB5
+   -> JAM2
+
+🎉 DONE!
+File saved → results/final_drug_report.csv
+Total drug hits → 145
