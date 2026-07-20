@@ -2,14 +2,12 @@
 
 End-to-end automated RNA-Seq and drug discovery pipeline for transcriptomic analysis of SNAI1 Knockout models in Breast Cancer. Transitions from raw differential expression to clinical-grade drug repurposing candidates in a single command.
 
----
-
 ## Overview
 
-AutoFlow-SNAI1 is a fully automated, reproducible bioinformatics workflow built on Snakemake. It processes raw count matrices through differential expression, strict biomarker filtration, functional pathway enrichment, and automated drug repurposing — querying the ChEMBL API to surface Phase 3 and Phase 4 clinical inhibitors for overexpressed gene targets.
-
----
-
+AutoFlow-SNAI1 is a fully automated, reproducible bioinformatics workflow built on **Snakemake**. 
+It executes the downstream transcriptomic pipeline—processing gene count matrices through DESeq2 
+differential expression, strict biomarker filtration (up/down-regulation), pathway enrichment, 
+and automated ChEMBL API screening for clinical-grade drug repurposing candidates.
 ## Pipeline
 
 01 — Differential Expression
@@ -22,9 +20,7 @@ Isolates high-confidence biomarkers at padj < 0.05 and |log2FC| >= 2.0 threshold
 Functional annotation via GSEApy against KEGG and Gene Ontology databases.
 
 04 — Drug Repurposing
-Automated ChEMBL API queries to retrieve clinical-grade inhibitors for overexpressed targets.
-
----
+Automated ChEMBL API queries to retrieve clinical-grade inhibitors for overexpressed targets
 
 ## Tech Stack
 
@@ -35,7 +31,6 @@ Automated ChEMBL API queries to retrieve clinical-grade inhibitors for overexpre
 | Bioinformatics  | DESeq2, GSEApy, BiomaRt    |
 | Data Science    | Pandas, ChEMBL WebClient   |
 
----
 
 ## Project Structure
 
@@ -46,15 +41,11 @@ AutoFlow-SNAI1/
   ├── Snakefile    # Workflow automation engine
   └── config.yaml  # Analysis parameters
 
----
-
 ## Execution
 
 Run the complete pipeline across 4 parallel threads:
 
     snakemake --cores 4
-
----
 
 ## Author
 
